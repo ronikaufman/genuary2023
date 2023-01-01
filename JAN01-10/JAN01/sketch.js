@@ -34,7 +34,7 @@ function draw() {
         let y = y0;
         for (let j = 0; j < n; j++) {
             let d = dist(x+s/2, y+s*fontHeight/2-y0, width/2, height/2)/20;
-            let idxColor = ~~abs(d + t);
+            let idxColor = ~~abs(d - t);
             fill(palette[idxColor%palette.length]);
             let idxChar = ~~abs(d - t);
             text(chars[idxChar%chars.length], x, y);
@@ -43,3 +43,9 @@ function draw() {
         x += s;
     }
 }
+
+function keyPressed() {
+    if (key === 's') {
+        saveGif("out.gif", 160, {delay:0, units:"frames"});
+    }
+  }
