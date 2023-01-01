@@ -27,8 +27,7 @@ function setup() {
 function draw() {
     background("#050505");
     
-    let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    chars = " .:-=+*#%@%#*+=-:.";
+    let chars = ":-=+*#%@%#*+=-:.";
     let t = frameCount/10;
     let x = 0, y0 = s*(1-fontHeight);
     for (let i = 0; i < n; i++) {
@@ -36,7 +35,7 @@ function draw() {
         for (let j = 0; j < n; j++) {
             let d = dist(x+s/2, y+s*fontHeight/2-y0, width/2, height/2)/20;
             let idxColor = ~~abs(d + t);
-            fill(palette[idxColor%palette.length])
+            fill(palette[idxColor%palette.length]);
             let idxChar = ~~abs(d - t);
             text(chars[idxChar%chars.length], x, y);
             y += s*fontHeight;
