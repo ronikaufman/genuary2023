@@ -2,7 +2,7 @@
 
 [Genuary](genuary.art) is a month of daily generative art prompts, happening every January.
 
-For this 2023 editions, I gave myself an extra constraint: to only draw with code.
+For this 2023 edition, I gave myself an extra constraint: to only draw with code.
 
 ### JAN. 1
 > Perfect loop / Infinite loop / endless GIFs
