@@ -10,6 +10,7 @@ For this 2023 editions, I gave myself an extra constraint: to only draw with cod
 
 ### JAN. 2
 > Made in 10 minutes
+<img src="./JAN01-10/JAN02/JAN02_1.png" width="20%"/> <img src="./JAN01-10/JAN02/JAN02_2.png" width="20%"/> <img src="./JAN01-10/JAN02/JAN02_3.png" width="20%"/> <img src="./JAN01-10/JAN02/JAN02_4.png" width="20%"/>
 
 ### JAN. 3
 > Glitch Art

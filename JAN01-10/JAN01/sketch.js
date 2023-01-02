@@ -48,4 +48,4 @@ function keyPressed() {
     if (key === 's') {
         saveGif("out.gif", 160, {delay:0, units:"frames"});
     }
-  }
+}
