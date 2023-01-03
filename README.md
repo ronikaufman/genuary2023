@@ -17,6 +17,8 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 ### JAN. 3
 > Glitch Art
 
+<img src="./JAN01-10/JAN03/JAN03.gif" width="25%"/>
+
 ### JAN. 4
 > Intersections
 
