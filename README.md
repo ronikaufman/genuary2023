@@ -22,7 +22,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 ### JAN. 4
 > Intersections
 
-<img src="./JAN01-10/JAN04/JAN04_1.png" width="25%"/> <img src="./JAN01-10/JAN04/JAN04_2.png" width="25%"/>
+<img src="./JAN01-10/JAN04/JAN04_1.png" width="33%"/> <img src="./JAN01-10/JAN04/JAN04_2.png" width="33%"/>
 
 ### JAN. 5
 > Debug view
