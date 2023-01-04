@@ -56,9 +56,9 @@ function glitchIt(img, amount, nDivs) {
         grph.image(img, xOffset, y, img.width, bh, 0, y, img.width, bh);
     }
     return grph;
-  }
+}
 
-  function keyPressed() {
+function keyPressed() {
     if (key === 's') {
         frameCount = 0;
         saveGif("JAN03.gif", N_FRAMES*4, {delay:0, units: "frames"});
