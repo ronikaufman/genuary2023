@@ -20,8 +20,7 @@ function setup() {
 }
 
 function draw() {
-    background("#050505");
-    background("#fffbe6")
+    background("#fffbe6");
 
     let artAdjs = shuffle(["poetical", "creative", "audiovisual", "aesthetic", "interactive", "plastic", "abstract", "baroque", "dada", "postmodern"]);
     let artFields = shuffle(["design", "writing", "photography", "art", "paint", "sketching", "animation", "illustration", "music", "typography"]);

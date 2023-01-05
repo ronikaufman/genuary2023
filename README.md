@@ -17,7 +17,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 ### JAN. 3
 > Glitch Art
 
-<img src="./JAN01-10/JAN03/JAN03.gif" width="25%"/>
+<img src="./JAN01-10/JAN03/JAN03.gif" width="33%"/>
 
 ### JAN. 4
 > Intersections
@@ -26,6 +26,8 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 
 ### JAN. 5
 > Debug view
+
+<img src="./JAN01-10/JAN05/JAN05_1.gif" width="33%"/> <img src="./JAN01-10/JAN05/JAN05_2.gif" width="33%"/>
 
 ### JAN. 6
 > Steal Like An Artist
