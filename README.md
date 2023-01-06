@@ -32,7 +32,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 ### JAN. 6
 > Steal Like An Artist
 
-<img src="./JAN01-10/JAN06/JAN06.gif" width="50%"/>
+<img src="./JAN01-10/JAN06/JAN06_1.gif" width="50%"/>
 
 ### JAN. 7
 > Sample a color palette from your favorite movie/album cover
