@@ -34,8 +34,12 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with code
 
 <img src="./JAN01-10/JAN06/JAN06_1.gif" width="50%"/>
 
+After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
+
 ### JAN. 7
 > Sample a color palette from your favorite movie/album cover
+
+<img src="./JAN01-10/JAN07/JAN07.png" width="66%"/>
 
 ### JAN. 8
 > Signed Distance Functions
