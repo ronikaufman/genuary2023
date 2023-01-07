@@ -37,7 +37,7 @@ function draw() {
     background("#fffbe6");
 
     fill("#62b6de");
-    let y = margin/2-2;
+    let y = margin/2+2;
     for (let j = 0; j < n; j++) {
         let x = margin/2;
         for (let i = 0; i < m; i++) {
@@ -54,7 +54,7 @@ function draw() {
     filter(BLUR, 2);
 
     textFont(semiboldFont);
-    y = margin/2-2;
+    y = margin/2+2;
     for (let j = 0; j < n; j++) {
         let x = margin/2;
         for (let i = 0; i < m; i++) {
