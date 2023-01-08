@@ -46,6 +46,6 @@ function draw() {
 
 function keyPressed() {
     if (key === 's') {
-        saveGif("out.gif", 160, {delay:0, units:"frames"});
+        saveGif("JAN01.gif", 160, {delay:0, units:"frames"});
     }
 }

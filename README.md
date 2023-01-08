@@ -44,6 +44,8 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 8
 > Signed Distance Functions
 
+<img src="./JAN01-10/JAN08/JAN08.gif" width="50%"/>
+
 ### JAN. 9
 > Plants
 
