@@ -49,6 +49,8 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 9
 > Plants
 
+<img src="./JAN01-10/JAN09/JAN09_1.png" width="20%"/> <img src="./JAN01-10/JAN09/JAN09_2.png" width="20%"/> <img src="./JAN01-10/JAN09/JAN09_3.png" width="20%"/> <img src="./JAN01-10/JAN09/JAN09_4.png" width="20%"/>
+
 ### JAN. 10
 > Generative music
 
