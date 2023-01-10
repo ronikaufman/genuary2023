@@ -54,6 +54,8 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 10
 > Generative music
 
+<img src="./JAN01-10/JAN10/JAN10_1.png" width="30%"/> <img src="./JAN01-10/JAN10/JAN10_2.png" width="30%"/> <img src="./JAN01-10/JAN10/JAN10_3.png" width="30%"/>
+
 ### JAN. 11
 > Suprematism
 
