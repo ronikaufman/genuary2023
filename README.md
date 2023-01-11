@@ -59,6 +59,10 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 11
 > Suprematism
 
+<img src="./JAN11-20/JAN11/JAN11.png" width="66%"/>
+
+Inspired by the photo of the ["0,10 Exhibition"](https://en.wikipedia.org/wiki/0,10_Exhibition)
+
 ### JAN. 12
 > Tessellation
 
