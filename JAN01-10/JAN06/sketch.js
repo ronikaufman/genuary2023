@@ -10,7 +10,7 @@ let sourceCode, data, n, sx, sy, margin = 5;
 
 function preload() {
     myFont = loadFont("./fonts/VictorMono-Medium.ttf");
-    sourceCode = loadStrings("./JAN01-10/JAN06/sketch.js")
+    sourceCode = loadStrings("./JAN01-10/JAN06/sketch.js");
 }
 
 function setup() {
@@ -38,8 +38,9 @@ function setup() {
 function draw() {
     background("#fffbe6");
 
-    if (frameCount > 20) {
-        let i0 = max(n - 2 - frameCount, -1);
+    let f0 = 10;
+    if (frameCount > f0) {
+        let i0 = max(n - 2 - frameCount + f0, -1);
         for (let i = n - 2; i > i0; i--) {
             for (let j = 0; j < n; j++) {
                 let l = data[i][j];
@@ -72,6 +73,6 @@ function draw() {
 
 function keyPressed() {
     if (key === 's') {
-        saveGif("JAN06.gif", 180, {delay: 0, units: "frames"});
+        saveGif("JAN06.gif", 200, {delay: 0, units: "frames"});
     }
 }

@@ -17,7 +17,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with text
 ### JAN. 3
 > Glitch Art
 
-<img src="./JAN01-10/JAN03/JAN03.gif" width="33%"/>
+<img src="./JAN01-10/JAN03/JAN03.gif" width="50%"/>
 
 ### JAN. 4
 > Intersections
@@ -32,7 +32,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with text
 ### JAN. 6
 > Steal Like An Artist
 
-<img src="./JAN01-10/JAN06/JAN06_1.gif" width="50%"/>
+<img src="./JAN01-10/JAN06/JAN06.gif" width="50%"/>
 
 After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 
@@ -68,7 +68,7 @@ Inspired by the photo of the [0,10 Exhibition](https://en.wikipedia.org/wiki/0,1
 
 <img src="./JAN11-20/JAN12/JAN12_1.png" width="33%"/> <img src="./JAN11-20/JAN12/JAN12_2.png" width="33%"/>
 
-Reference: [Wanderer (rotations) on the Tilings Encyclopedia](https://tilings.math.uni-bielefeld.de/substitution/wanderer-rot/)
+Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.math.uni-bielefeld.de/substitution/wanderer-rot/)
 
 ### JAN. 13
 > Something you've always wanted to learn
