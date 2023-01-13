@@ -73,6 +73,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 13
 > Something you've always wanted to learn
 
+<img src="./JAN11-20/JAN13/JAN13_1.png" width="33%"/> <img src="./JAN11-20/JAN13/JAN13_2.png" width="33%"/>
+
 ### JAN. 14
 > Aesemic
 
