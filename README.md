@@ -78,6 +78,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 14
 > Aesemic
 
+<img src="./JAN11-20/JAN14/JAN14_1.png" width="30%"/> <img src="./JAN11-20/JAN14/JAN14_2.png" width="30%"/> <img src="./JAN11-20/JAN14/JAN14_3.png" width="30%"/>
+
 ### JAN. 15
 > Sine waves
 
