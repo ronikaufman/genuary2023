@@ -66,14 +66,14 @@ Inspired by the photo of the [0,10 Exhibition](https://en.wikipedia.org/wiki/0,1
 ### JAN. 12
 > Tessellation
 
-<img src="./JAN11-20/JAN12/JAN12_1.png" width="33%"/> <img src="./JAN11-20/JAN12/JAN12_2.png" width="33%"/>
+<img src="./JAN11-20/JAN12/JAN12_1.png" width="40%"/> <img src="./JAN11-20/JAN12/JAN12_2.png" width="40%"/>
 
 Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.math.uni-bielefeld.de/substitution/wanderer-rot/)
 
 ### JAN. 13
 > Something you've always wanted to learn
 
-<img src="./JAN11-20/JAN13/JAN13_1.png" width="33%"/> <img src="./JAN11-20/JAN13/JAN13_2.png" width="33%"/>
+<img src="./JAN11-20/JAN13/JAN13_1.png" width="40%"/> <img src="./JAN11-20/JAN13/JAN13_2.png" width="40%"/>
 
 ### JAN. 14
 > Aesemic
