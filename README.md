@@ -83,6 +83,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 15
 > Sine waves
 
+<img src="./JAN11-20/JAN15/JAN15.gif" width="50%"/>
+
 ### JAN. 16
 > Reflection of a reflection
 

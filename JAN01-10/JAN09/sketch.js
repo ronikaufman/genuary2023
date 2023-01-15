@@ -14,14 +14,13 @@ function preload() {
 function setup() {
     createCanvas(600, 600);
     noLoop();
-    rectMode(CENTER);
     angleMode(DEGREES);
     noStroke();
     textFont(myFont);
     textAlign(CENTER, CENTER);
-  }
-  
-  function draw() {
+}
+
+function draw() {
     background("#fffbe6");
     let margin = 50;
   
@@ -82,9 +81,9 @@ function setup() {
       }
       sunflower(c.center.x, c.center.y, 2*c.r);
     }
-  }
+}
   
-  function sunflower(x0, y0, d) {
+function sunflower(x0, y0, d) {
     fill(random(["#ef562f", "#fc8405", "#f9d531"]));
     for (let theta = 0; theta < 360; theta += 360/42) {
       let r = d/4;
@@ -113,4 +112,4 @@ function setup() {
       text("|", 0, 0);
       pop();
     }
-  }
+}
