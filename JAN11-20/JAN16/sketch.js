@@ -7,7 +7,7 @@ https://ronikaufman.github.io
 
 let myFont;
 let s = 5;
-let N_FRAMES = 180;
+let N_FRAMES = 360;
 
 function setup() {
     createCanvas(600, 500);
@@ -15,7 +15,7 @@ function setup() {
     textSize(s*4);
     textAlign(CENTER, CENTER);
     textFont("monospace");
-    frameRate(12);
+    frameRate(24);
 
     background("#fffbe6");
 }
