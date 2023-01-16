@@ -88,6 +88,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 16
 > Reflection of a reflection
 
+<img src="./JAN11-20/JAN16/JAN16.gif" width="50%"/>
+
 ### JAN. 17
 > A grid inside a grid inside a grid
 
