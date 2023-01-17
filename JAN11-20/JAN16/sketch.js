@@ -5,7 +5,6 @@ By Roni Kaufman
 https://ronikaufman.github.io
 */
 
-let myFont;
 let s = 5;
 let N_FRAMES = 360;
 

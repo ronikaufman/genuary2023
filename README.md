@@ -93,6 +93,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 17
 > A grid inside a grid inside a grid
 
+<img src="./JAN11-20/JAN17/JAN17_1.png" width="30%"/> <img src="./JAN11-20/JAN17/JAN17_2.png" width="30%"/> <img src="./JAN11-20/JAN17/JAN17_3.png" width="30%"/>
+
 ### JAN. 18
 > Definitely not a grid
 
