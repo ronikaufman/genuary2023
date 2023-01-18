@@ -98,6 +98,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 18
 > Definitely not a grid
 
+<img src="./JAN11-20/JAN18/JAN18_1.gif" width="40%"/> <img src="./JAN11-20/JAN18/JAN18_2.gif" width="40%"/>
+
 ### JAN. 19
 > Black and white
 
