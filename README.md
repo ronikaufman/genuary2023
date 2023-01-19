@@ -103,6 +103,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 19
 > Black and white
 
+<img src="./JAN11-20/JAN19/JAN19_1.gif" width="40%"/> <img src="./JAN11-20/JAN19/JAN19_2.gif" width="40%"/>
+
 ### JAN. 20
 > Art Deco
 
