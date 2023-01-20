@@ -108,6 +108,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 20
 > Art Deco
 
+<img src="./JAN11-20/JAN20/JAN20_1.png" width="30%"/> <img src="./JAN11-20/JAN20/JAN20_2.png" width="30%"/> <img src="./JAN11-20/JAN20/JAN20_3.png" width="30%"/>
+
 ### JAN. 21
 > Persian Rug
 
