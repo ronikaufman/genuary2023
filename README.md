@@ -113,6 +113,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 21
 > Persian Rug
 
+<img src="./JAN21-31/JAN21/JAN21_1.png" width="50%"/>
+
 ### JAN. 22
 > Shadows
 
