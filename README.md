@@ -22,7 +22,7 @@ For this 2023 edition, I gave myself an extra constraint: to only draw with text
 ### JAN. 4
 > Intersections
 
-<img src="./JAN01-10/JAN04/JAN04_1.png" width="33%"/> <img src="./JAN01-10/JAN04/JAN04_2.png" width="33%"/>
+<img src="./JAN01-10/JAN04/JAN04_1.png" width="40%"/> <img src="./JAN01-10/JAN04/JAN04_2.png" width="40%"/>
 
 ### JAN. 5
 > Debug view
@@ -39,7 +39,7 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 7
 > Sample a color palette from your favorite movie/album cover
 
-<img src="./JAN01-10/JAN07/JAN07.png" width="66%"/>
+<img src="./JAN01-10/JAN07/JAN07.png" width="50%"/>
 
 ### JAN. 8
 > Signed Distance Functions
@@ -59,7 +59,7 @@ After Andreas Gysin (https://www.instagram.com/p/CUR2We3gc2I)
 ### JAN. 11
 > Suprematism
 
-<img src="./JAN11-20/JAN11/JAN11.png" width="66%"/>
+<img src="./JAN11-20/JAN11/JAN11.png" width="50%"/>
 
 Inspired by the photo of the [0,10 Exhibition](https://en.wikipedia.org/wiki/0,10_Exhibition)
 
@@ -117,6 +117,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 
 ### JAN. 22
 > Shadows
+
+<img src="./JAN21-31/JAN22/JAN22_1.gif" width="50%"/>
 
 ### JAN. 23
 > More Moiré
