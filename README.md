@@ -123,6 +123,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 23
 > More Moiré
 
+<img src="./JAN21-31/JAN23/JAN23.gif" width="50%"/>
+
 ### JAN. 24
 > Textile
 
