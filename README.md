@@ -128,6 +128,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 24
 > Textile
 
+<img src="./JAN21-31/JAN24/JAN24_1.png" width="30%"/> <img src="./JAN21-31/JAN24/JAN24_2.png" width="30%"/> <img src="./JAN21-31/JAN24/JAN24_3.png" width="30%"/>
+
 ### JAN. 25
 > Yayoi Kusama
 
