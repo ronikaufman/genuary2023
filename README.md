@@ -135,6 +135,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 
 <img src="./JAN21-31/JAN25/JAN25_1.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_3.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_5.png" width="30%"/>
 
+Inspired by Kusama's [Accumulation of Nets (No. 7)](https://www.moma.org/collection/works/49993?artist_id=3315&page=1&sov_referrer=artist)
+
 ### JAN. 26
 > My kid could have made that
 
