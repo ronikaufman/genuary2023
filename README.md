@@ -133,6 +133,8 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 ### JAN. 25
 > Yayoi Kusama
 
+<img src="./JAN21-31/JAN25/JAN25_1.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_3.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_5.png" width="30%"/>
+
 ### JAN. 26
 > My kid could have made that
 
