@@ -140,6 +140,8 @@ Inspired by Kusama's [Accumulation of Nets (No. 7)](https://www.moma.org/collect
 ### JAN. 26
 > My kid could have made that
 
+<img src="./JAN21-31/JAN26/JAN26_1.png" width="30%"/> <img src="./JAN21-31/JAN26/JAN26_2.png" width="30%"/> <img src="./JAN21-31/JAN26/JAN26_3.png" width="30%"/>
+
 ### JAN. 27
 > In the style of Hilma Af Klint
 
