@@ -135,7 +135,7 @@ Reference: ["Wanderer (rotations)" on the Tilings Encyclopedia](https://tilings.
 
 <img src="./JAN21-31/JAN25/JAN25_1.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_3.png" width="30%"/> <img src="./JAN21-31/JAN25/JAN25_5.png" width="30%"/>
 
-Inspired by Kusama's [Accumulation of Nets (No. 7)](https://www.moma.org/collection/works/49993?artist_id=3315&page=1&sov_referrer=artist)
+Inspired by [Accumulation of Nets (No. 7)](https://www.moma.org/collection/works/49993?artist_id=3315&page=1&sov_referrer=artist)
 
 ### JAN. 26
 > My kid could have made that
@@ -144,6 +144,10 @@ Inspired by Kusama's [Accumulation of Nets (No. 7)](https://www.moma.org/collect
 
 ### JAN. 27
 > In the style of Hilma Af Klint
+
+<img src="./JAN21-31/JAN27/JAN27.gif" width="50%"/>
+
+Inspired by [Altarpiece No. 1, Group X](https://www.wikiart.org/en/hilma-af-klint/altar-painting-1915)
 
 ### JAN. 28
 > Generative poetry

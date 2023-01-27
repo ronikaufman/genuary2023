@@ -17,8 +17,6 @@ function setup() {
 }
 
 function draw() {
-    background(255, 0, 0)
-
     let palette = ["#fffbe6", "#050505"]
     let colors = shuffle(["#abcd5e", "#14976b", "#b3dce0", "#62b6de", "#2b67af", "#f9d531"]);
     let nColors = random([1, 2, 3]);
