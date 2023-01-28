@@ -152,6 +152,8 @@ Inspired by [Altarpiece No. 1, Group X](https://www.wikiart.org/en/hilma-af-klin
 ### JAN. 28
 > Generative poetry
 
+<img src="./JAN21-31/JAN28/JAN28_1.png" width="30%"/> <img src="./JAN21-31/JAN28/JAN28_2.png" width="30%"/> <img src="./JAN21-31/JAN28/JAN28_3.png" width="30%"/>
+
 ### JAN. 29
 > Maximalism
 
