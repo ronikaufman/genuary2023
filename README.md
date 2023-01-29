@@ -157,6 +157,8 @@ Inspired by [Altarpiece No. 1, Group X](https://www.wikiart.org/en/hilma-af-klin
 ### JAN. 29
 > Maximalism
 
+<img src="./JAN21-31/JAN29/JAN29_1.gif" width="50%"/>
+
 ### JAN. 30
 > Minimalism
 
