@@ -162,5 +162,7 @@ Inspired by [Altarpiece No. 1, Group X](https://www.wikiart.org/en/hilma-af-klin
 ### JAN. 30
 > Minimalism
 
+<img src="./JAN21-31/JAN30/JAN30_1.gif" width="50%"/>
+
 ### JAN. 31
 > Deliberately break one of your previous images, take one of your previous works and ruin it. / Alternatively, remix one of your previous works.
