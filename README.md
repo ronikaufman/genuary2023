@@ -166,3 +166,5 @@ Inspired by [Altarpiece No. 1, Group X](https://www.wikiart.org/en/hilma-af-klin
 
 ### JAN. 31
 > Deliberately break one of your previous images, take one of your previous works and ruin it. / Alternatively, remix one of your previous works.
+
+<img src="./JAN21-31/JAN31/JAN31.gif" width="50%"/>
