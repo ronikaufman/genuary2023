@@ -1,6 +1,6 @@
 # Genuary 2023
 
-[Genuary](genuary.art) is a month of daily generative art prompts, happening every January.
+[Genuary](https://genuary.art/) is a month of daily generative art prompts, happening every January.
 
 For this 2023 edition, I gave myself an extra constraint: to only draw with text.
 
